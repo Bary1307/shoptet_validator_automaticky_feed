@@ -50,4 +50,3 @@ jobs:
             git commit -m "Aktualizace feedů"
             git push || (git pull --rebase && git push)
           fi
-
