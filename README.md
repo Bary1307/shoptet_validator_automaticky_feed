@@ -1,0 +1,1 @@
+# shoptet_validator_automaticky_feed
